@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34239621/README.md)
 # TechFix Solutions – Banco de Dados
 
 Trabalho acadêmico da disciplina de **Banco de Dados** – Universidade Cidade de São Paulo (UNICID), 2026.

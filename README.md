@@ -59,9 +59,9 @@ O PDF em [`docs/`](docs/TechFix_Documentacao.pdf) reúne: caracterização da em
 
 ## Integrantes
 
-- _Thiago Cabral
-- _Eugenio Lima
-- _Henrique dos Santos
-- _Hens Siul
-- _Joao pedro
-- _Victor Lorenco
+- Thiago Cabral
+- Eugenio Lima
+- Henrique dos Santos
+- Hens Siul
+- Joao pedro
+- Victor Lorenco

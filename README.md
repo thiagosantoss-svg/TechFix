@@ -59,4 +59,9 @@ O PDF em [`docs/`](docs/TechFix_Documentacao.pdf) reúne: caracterização da em
 
 ## Integrantes
 
-- _Adicione aqui o nome dos integrantes da equipe_
+- _Thiago Cabral
+- _Eugenio Lima
+- _Henrique dos Santos
+- _Hens Siul
+- _Joao pedro
+- _Victor Lorenco
